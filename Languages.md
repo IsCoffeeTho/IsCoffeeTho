@@ -1,4 +1,12 @@
 # Known Languages
+## Spoken Languages
+* **English** `(Native)`
+* Spanish (Novice)
+* Japanese (Novice)
+* Arabic (Basics)
+* Russian (Basics)
+
+## Programming Languages
 + `C`
   - ft_c (42)
 + `JavaScript (JS)`
@@ -17,6 +25,9 @@
   - Arduino
 + `BrainF*ck (BF)`
   - BrainRot
++ `MarkDown (MD)`
+  - GitHub
+  - Discord
 + `Machine Language (ML)`
   - 6502
   - webASM
