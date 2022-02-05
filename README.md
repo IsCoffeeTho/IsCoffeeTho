@@ -8,13 +8,6 @@ I also love making music and being creative. There is soo much more to learn for
 
 #### Collaboration > Memorisation
 
-### Technical Jargon
-* Object Oriented.
-* User Experience Developer.
-* Electronics Hobbyist.
-* Clean Guitar Player.
-* Mathematic and Algorithmic Thinker.
-
 ### Qualifications:
 * `UNDERGOING` Diploma of Information technology, Advanced Programming (ICT50220)
 * Cert III Music Industries (CUA30915)
