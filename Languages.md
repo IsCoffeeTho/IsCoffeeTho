@@ -1,12 +1,4 @@
 # Known Languages
-## Spoken Languages
-* **English** `(Native)`
-* Spanish (Novice)
-* Japanese (Novice)
-* Arabic (Basics)
-* Russian (Basics)
-
-## Programming Languages
 + `C`
   - ft_c (42)
 + `JavaScript (JS)`
@@ -31,3 +23,4 @@
 + `Machine Language (ML)`
   - 6502
   - webASM
++ `Python`
