@@ -7,5 +7,5 @@
 - Cert III Music Industries `CUA30915`
 
 ### Links
-- [Repository Index](Repos.md)
-- [List of Languages](Languages.md)
+#### [Repository Index](Repos.md)
+#### [List of Languages](Languages.md)
