@@ -1,14 +1,11 @@
-# IsCoffeeTho
-Hello, My name is Aaron Menadue.
-I am an Aussie Software Engineer that started programming in 2013, currently undertaking a study at [42 Adelaide](https://github.com/42Adelaide). Started making really crude websites and then got the courage to try Unity Games, from Unity games to Desktop Apps. I recently started getting into 'emulation' and simulation of systems. I really enjoy using programming as a means to have a unique challenge.
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFF85&vCenter=true&lines=IsCoffeeTho)](https://git.io/typing-svg)
 
-I also love making music and being creative. There is soo much more to learn for me, but when is there never anything to learn.
-
-#### Collaboration > Memorisation
+[![amenadue's 42 stats](https://badge.mediaplus.ma/darkgray/amenadue?1337Badge=off)](https://github.com/oakoudad/badge42)
 
 ### Qualifications:
-* `UNDERGOING` Diploma of Information technology, Advanced Programming (ICT50220)
-* Cert III Music Industries (CUA30915)
-## Links
-* [Repository Index](Repos.md)
-* [List of Languages](Languages.md)
+- 42 Accreditation **`UNDERGOING`**
+- Cert III Music Industries `CUA30915`
+
+### Links
+- [Repository Index](Repos.md)
+- [List of Languages](Languages.md)
