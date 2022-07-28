@@ -1,12 +1,14 @@
-<div style="text-align : center;">
+# IsCoffeeTho
 
-<h1 style="font-weight : 400;"> IsCoffeeTho </h1>
+Aussie Software Engineer with expertise in Fullstack development and UX Design.
 
-</div>
-
-- 42 Accreditation **`UNDERGOING`**
-- Cert III Music Industries `CUA30915`
-
+### Accreditation
+```sh
+42 Accreditation # UNDERGOING
+```
+```sh
+Cert III Music Industries # CUA30915
+```
 ### More
 [Repository Index](Repos.md)  
 [List of Programming Languages](Languages.md)
