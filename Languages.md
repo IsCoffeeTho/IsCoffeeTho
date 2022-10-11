@@ -3,6 +3,9 @@
   - ft_c (42)
 + `JavaScript (JS)`
   - Node.js
+      * Discord.js
+      * Twitch
+      * Express
   - webAPI
   - JavaScript Object Notation (JSON)
 + `Hyper Text Markup Language (HTML)`

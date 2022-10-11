@@ -6,10 +6,13 @@ I recently started getting into 'emulation' and simulation of systems. I really 
 
 I also love making music and being creative. There is soo much more to learn for me, but when is there never anything to learn.
 
-#### Collaboration > Memorisation
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=c,nodejs,ts,html,css,js,java,lua,md,py,arduino,bash,git,github,heroku,firebase,regex,vscode,vim,unity,bots)](https://skillicons.dev/)
 
 ### Qualifications:
-* `UNDERGOING` Diploma of Information technology, Advanced Programming (ICT50220)
-* Cert III Music Industries (CUA30915)
+* `UNDERGOING` 42 Accreditation [(42adel)](https://www.42adel.org.au/)
+* Cert III Music Industries [(CUA30915)](https://training.gov.au/training/details/cua30915)
+
 ## Links
- [List of Languages](Languages.md)
+[Official List of Programming Languages](Languages.md)
+[Portfolio](https://aaron-menadue.web.app/)
