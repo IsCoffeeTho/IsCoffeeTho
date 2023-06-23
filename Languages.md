@@ -2,6 +2,7 @@
 + `C`
   - ft_c (42)
 + `JavaScript (JS)`
+  - TypeScript
   - Node.js
       * Discord.js
       * Twitch
@@ -13,6 +14,7 @@
 + `eXtensible Markup Language (XML)`
 + `Java`
   - JDK
+  - Bukkit / Spigot
   - Processing
   - MCForge
 + `Lua`
@@ -26,4 +28,5 @@
 + `Machine Language (ML)`
   - 6502
   - webASM
+  - x86_64
 + `Python`
