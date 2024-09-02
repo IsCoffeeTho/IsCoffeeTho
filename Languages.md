@@ -3,17 +3,17 @@
   - ft_c (42)
 + `JavaScript (JS)`
   - TypeScript
-  - Node.js
+  - Bun
       * Discord.js
       * Twitch
       * Express
+  - NodeJS
   - webAPI
   - JavaScript Object Notation (JSON)
 + `Hyper Text Markup Language (HTML)`
 + `Cascading StyleSheets (CSS)`
 + `eXtensible Markup Language (XML)`
 + `Java`
-  - JDK
   - Bukkit / Spigot
   - Processing
   - MCForge
@@ -21,7 +21,7 @@
   - OpenComputers
   - Arduino
 + `BrainF*ck (BF)`
-  - BrainRot
+  - BrainRot (Custom Esolang)
 + `MarkDown (MD)`
   - GitHub
   - Discord
@@ -29,4 +29,5 @@
   - 6502
   - webASM
   - x86_64
+  - RISC-V
 + `Python`
